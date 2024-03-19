@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch
+title: Talia, das Lerntagebuch
 ---
 
 ## Willkommen zu meinem Lerntagebuch
