@@ -1,6 +1,6 @@
 ---
 title: "Erwartungen zum Kurs"
-date: 2024-02-20
+date: 2024-02-15
 ---
 
 An Talia, das Lerntagebuch
