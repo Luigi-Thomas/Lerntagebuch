@@ -3,7 +3,7 @@ title: "Tag 1 - Vormittag"
 date: 2024-02-15
 ---
 
-15.02.2024 – Vormittag
+Technische Grundlagen 1/2
 
 Liebe Talia
 
