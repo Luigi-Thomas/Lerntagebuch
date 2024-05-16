@@ -3,6 +3,8 @@ title: "Tag 1 - Nachmittag"
 date: 2024-02-15
 ---
 
+Technische Grundlagen 2/2
+
 Liebe Talia
 
 Vom Mittagessen gestärkt ging es am Nachmittag mit dem zweiten Teil des ersten Tages Bibliotheks- und Archivinformatik weiter. 
