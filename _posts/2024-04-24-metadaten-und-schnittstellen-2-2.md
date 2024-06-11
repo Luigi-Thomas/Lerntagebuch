@@ -1,5 +1,5 @@
 ---
-title: "Tag 6"
+title: "Metadaten modellieren und Schnittstellen nutzen 2/2"
 date: 2024-04-24
 ---
 
