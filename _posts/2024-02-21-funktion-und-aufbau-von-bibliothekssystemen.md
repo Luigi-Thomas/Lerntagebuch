@@ -1,5 +1,5 @@
 ---
-title: "Tag 2"
+title: "Funktion und Aufbau von Bibliothekssystemen"
 date: 2024-02-21
 ---
 
