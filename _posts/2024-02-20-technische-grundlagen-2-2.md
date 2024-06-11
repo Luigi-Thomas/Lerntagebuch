@@ -1,5 +1,5 @@
 ---
-title: "Tag 1 - Nachmittag"
+title: "Technische Grundlagen 2/2"
 date: 2024-02-15
 ---
 
