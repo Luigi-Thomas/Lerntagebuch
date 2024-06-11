@@ -1,9 +1,9 @@
 ---
-title: "Tag 4"
+title: "Repository Software für Publikationen und Forschungsdaten"
 date: 2024-4-10
 ---
 
-Repository Software für Publikationen und Vorschungsdaten
+Repository Software für Publikationen und Forschungsdaten
 
 Liebe Talia
 
