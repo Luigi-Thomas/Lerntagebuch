@@ -14,4 +14,3 @@ Als Letztes hoffe ich herauszufinden, ob diese Arbeit, also das Verfassen eines 
 Bis demnächst
 
 Lukas
-
