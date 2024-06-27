@@ -22,7 +22,9 @@ Bei der Konvertierung von EAD zu MARC21 scheiterte xsltransform jedoch. Wir muss
 Zum Schluss wurden uns noch einige weitere Tools präsentiert, die zur Metadatentransformation verwendet werden kann. Zu diesem Zeitpunkt war meine Konzentration leider nicht mehr so ganz auf der Höhe, weshalb ich jetzt hier nicht detailliert darüber Auskunft geben kann. 
 
 So, nun hast du etwa 3 Wochen Ruhe von mir. 
+
 Bis dann!
+
 Lukas 
 
 
