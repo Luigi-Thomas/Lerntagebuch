@@ -28,4 +28,5 @@ Als Letztes exportierten wir die vorhandenen CSV Daten nach MARCXML. Dazu nutzte
 Dieser Tag verlangte viel aktive Beteiligung, was es zwar leichter macht trotz online Unterricht dabei zu bleiben, aber doch auch recht anstrengend ist. Dennoch bin ich gespannt auf Teil 2 dieses Themas. In dem Sinne, einen schönen Abend noch.
 
 Bis dann!
+
 Lukas
