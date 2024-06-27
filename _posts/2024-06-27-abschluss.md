@@ -26,6 +26,6 @@ Zum Schluss noch ein paar Worte zum Lerntagebuch selbst. Wie bereits im Einführ
 
 Mit diesen Worten verabschiede ich mich von dir, dem Dozenten und dem Modul und wünsche einen schönen Sommer!
 
-Bis dann,
+Bis dann!
 
 Lukas
