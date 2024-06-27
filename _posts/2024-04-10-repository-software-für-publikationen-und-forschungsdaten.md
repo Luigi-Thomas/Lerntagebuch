@@ -21,6 +21,7 @@ Ganz am Schluss wurde noch ein kurzer Marktüberblick über vorhandene Repositor
 Der nächste Termin wird nicht so lange auf sich warten lassen, wir sprechen uns also bald wieder!
 
 Bis dann!
+
 Lukas
 
 
