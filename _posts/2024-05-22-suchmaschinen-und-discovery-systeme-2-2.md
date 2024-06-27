@@ -20,6 +20,7 @@ Der Dozent zeigte uns danach ein paar Discovery-Systeme, wie sie im echten Leben
 Nach dieser sehr interaktiven Lektion nähern wir uns rapide dem Ende des Moduls. Ich bin gespannt, was uns zum Schluss noch erwartet!
 
 Bis dann,
+
 Lukas
 
 
