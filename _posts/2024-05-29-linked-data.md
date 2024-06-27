@@ -23,6 +23,7 @@ Zum Schluss zeigte uns der Dozent noch einmal, wie die Reconciliation funktionie
 Dies war die letzte Vorlesung im Modul Bibliotheks- und Archivinformatik. Als letzter Eintrag folgt nun nur noch eine Zusammenfassung, was ich alles gelernt, beziehungsweise nicht gelernt habe. Also, auf zum Endspurt!
 
 Bis dann,
+
 Lukas
 
  
