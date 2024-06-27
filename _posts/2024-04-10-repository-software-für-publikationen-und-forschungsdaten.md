@@ -9,7 +9,7 @@ Liebe Talia
 
 Es ist eine Weile her, seit wir uns das letzte Mal gesprochen haben. Schliesslich ist auch die letzte Vorlesung schon fast einen Monat her. Als Brücke zur letzten Vorlesung haben wir noch einmal kurz die letzte Übung angeschaut. Danach ging es mit Vollgas in ein neues Thema.
 
-Das neue Thema beschäftigte sich zunächst mit Open Access und Open Data. Bei Open Access geht es darum, Publikationen der Öffentlichkeit zugänglich zu machen. Dies ist etwas, das immer mehr in den Fokus von Forschenden tritt. Open Data stellt die Publikation von Forschungsdaten in den Vordergrund. Dies sind Daten, die bei Forschungen und Untersuchungen entstehen und sind oftmals Anhänge/Beilagen von Zeitschriftartikeln. Viele solche Daten können unter Home | re3data.org gefunden werden.
+Das neue Thema beschäftigte sich zunächst mit Open Access und Open Data. Bei Open Access geht es darum, Publikationen der Öffentlichkeit zugänglich zu machen. Dies ist etwas, das immer mehr in den Fokus von Forschenden tritt. Open Data stellt die Publikation von Forschungsdaten in den Vordergrund. Dies sind Daten, die bei Forschungen und Untersuchungen entstehen und sind oftmals Anhänge/Beilagen von Zeitschriftartikeln. Viele solche Daten können unter https://www.re3data.org/ gefunden werden.
 
 Es wurde uns auch erklärt, was in dem Zusammenhang mit Forschungsinformationen gemeint ist. Es handelt sich dabei um Informationen über Forschende, Drittmittelprojekte, Patente und mehr. Diese Informationen sind in erster Linie zur Forschungsberichterstattung gedacht. Um diese Informationen zu verwalten, haben viele Universitäten bereits Forschungsinformationssysteme eingeführt.
 
