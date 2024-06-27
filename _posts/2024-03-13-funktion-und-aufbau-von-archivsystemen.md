@@ -49,6 +49,7 @@ Zum Abschluss gab uns der Dozent noch einen kurzen Überblick über die Untersch
 Und damit wäre ein weiterer Tag BAIN geschafft.
 
 Bis dann!
+
 Lukas
 
 
