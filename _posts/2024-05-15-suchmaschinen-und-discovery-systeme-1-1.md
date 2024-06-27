@@ -22,6 +22,7 @@ Ein grosser Teil der Vorlesung war eine Übung, bei welcher wir verschiedene Suc
 Die Übung stellte den Schluss der Vorlesung dar. Viele Einträge sind es nicht mehr, aber ich bin gespannt auf den Endspurt!
 
 Bis dann!
+
 Lukas
 
 
