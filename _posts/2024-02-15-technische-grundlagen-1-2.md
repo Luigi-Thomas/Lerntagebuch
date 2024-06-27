@@ -22,5 +22,6 @@ Der Dozent gab uns eine kurze Einführung und erklärte uns schliesslich Codespa
 Auf diese Einheit folgte die Mittagspause, am Nachmittag soll es dann mit den Unix Grundlagen weitergehen.
 
 Bis dann!
+
 Lukas
 
