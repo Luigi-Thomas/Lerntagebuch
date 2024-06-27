@@ -26,6 +26,7 @@ Im zweiten Teil der Lektion stellte uns der Dozent Koha vor, ein Open Source Bib
 Damit war der zweite Tag (die dritte Einheit) beendet. 
 
 Bis dann!
+
 Lukas
 
 
